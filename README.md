@@ -1,5 +1,10 @@
 # inflate - a DEFLATE / zlib / gzip / ZIP codec in SPARK
 
+> **This repository has moved.** Development continues in
+> [kanigsson/spark-world](https://github.com/kanigsson/spark-world), under
+> [`apps/inflate/`](https://github.com/kanigsson/spark-world/tree/main/apps/inflate).
+> This repository is no longer maintained.
+
 A one-shot, no-heap compression library: DEFLATE itself (RFC 1951), the
 zlib (RFC 1950) and gzip (RFC 1952) containers with their checksums, and a
 ZIP central-directory walker with per-entry extraction. The entire library
